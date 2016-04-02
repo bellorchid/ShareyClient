@@ -1,0 +1,14 @@
+{
+  "name": "ShareyClient",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "avoscloud-sdk": "^0.6.9",
+    "fs": "0.0.2",
+    "material-ui": "^0.14.4",
+    "nconf": "^0.8.4",
+    "react": "^0.14.8",
+    "react-dom": "^0.14.8",
+    "react-tap-event-plugin": "^0.2.2"
+  }
+}
